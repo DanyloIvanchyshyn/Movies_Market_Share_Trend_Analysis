@@ -1,0 +1,50 @@
+NUMBER	MOVIE	TYPE	TOTAL
+1	A Beautiful Mind	Best Picture	170.71
+2	American Beauty	Best Picture	130.06
+3	Batman	Biggest Gross	251.19
+4	Beverly Hills Cop	Biggest Gross	234.76
+5	Chicago	Best Picture	170.69
+6	Crash	Best Picture	55.33
+7	"Departed, The"	Best Picture	133.31
+8	"Empire Strikes Back, The"	Biggest Gross	290.27
+9	ET	Biggest Gross	435.11
+10	Forrest Gump	Biggest Gross	329.69
+11	Ghost Busters	Biggest Gross	238.63
+12	Gladiator	Best Picture	187.68
+13	Gods and Monsters	Sundance	6.45
+14	"Good Girl, The"	Sundance	14.02
+15	Harry Potter 1: Sorcerer's Stone	Series	317.56
+16	Harry Potter 2: Chamber of Secrets	Series	261.99
+17	Harry Potter 3: Prisoner of Azkeban	Series	249.54
+18	Harry Potter 4: Goblet of Fire	Series	290.01
+19	Harry Potter 5: Order of the Phoenix	Series	292
+20	Home Alone	Biggest Gross	285.76
+21	In the Company of Men	Sundance	2.88
+22	Independence Day	Biggest Gross	306.17
+23	Jurassic Park	Biggest Gross	357.07
+24	"Last Mimzy, The"	Sundance	21.47
+25	"Lion King, The"	Biggest Gross	312.86
+26	Lord of the Rings: The Return of the King	Best Picture	377.03
+27	Million Dollar Baby	Best Picture	100.42
+28	Pirates 1: Curse of the Black Pearl	Series	305.41
+29	Pirates 2: Dead Man's Chest	Series	423.32
+30	Pirates 3: At World's End	Series	309.4
+31	Quinceanera	Sundance	1.69
+32	Raiders of the Lost Ark	Biggest Gross	242.37
+33	Return of the Jedi	Biggest Gross	309.21
+34	"Road Home, The"	Sundance	1.28
+35	Run Lola Run	Sundance	7.27
+36	Shakespeare in Love	Best Picture	100.32
+37	Shrek	Series	267.65
+38	Shrek 2	Series	436.72
+39	Shrek the Third	Series	321.01
+40	Spider-Man	Series	403.71
+41	Spider-Man 2	Series	373.52
+42	Spider-Man 3	Series	336.53
+43	Star Wars	Biggest Gross	461
+44	Star Wars: Phantom Menace	Biggest Gross	431.09
+45	Super Size Me	Sundance	11.53
+46	Thirteen	Sundance	4.6
+47	Titanic	Best Picture	600.79
+48	"Upside of Anger, The"	Sundance	18.76
+49	You Can Count on Me	Sundance	9.18
